@@ -1,0 +1,21 @@
+.header {
+  background-color: #f2f6f7;
+  padding: 10px 0;
+}
+
+.header h1 {
+  color: #071c1f;
+  font-size: 50px;
+  font-weight: 700;
+}
+.header h1 span {
+  color: #ff5a3c;
+}
+.header p {
+  font-size: 17px;
+  font-weight: 500;
+}
+.header h2 {
+  font-size: 35px;
+  color: #071c1f;
+}
