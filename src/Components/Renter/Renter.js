@@ -5,6 +5,7 @@ import "./Renter.css";
 
 const Renter = (props) => {
   const { img, name, id, address, unit, amount, category } = props.renter;
+  console.log(category);
   const element = <FontAwesomeIcon icon={faHouseUser} />;
   return (
     <div className="main-cart">

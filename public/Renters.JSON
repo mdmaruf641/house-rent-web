@@ -5,7 +5,7 @@
     "address": "Sandwip",
     "id": "Z3SDFDG433",
     "unit": "F1",
-    "category ": "Middle",
+    "category": "Middle",
     "amount": 12000
   },
   {
@@ -14,7 +14,7 @@
     "address": "Hatiya",
     "id": "SD433GFD",
     "unit": "F2",
-    "category ": "Low",
+    "category": "Low",
     "amount": 10000
   },
 
@@ -24,7 +24,7 @@
     "address": "Vola",
     "id": "34DFDG4GH",
     "unit": "F3",
-    "category ": "High",
+    "category": "High",
     "amount": 15000
   },
   {
@@ -33,7 +33,7 @@
     "address": "Feni",
     "id": "SRSD67G433",
     "unit": "F4",
-    "category ": "Middle",
+    "category": "Middle",
     "amount": 12000
   },
   {
@@ -42,7 +42,7 @@
     "address": "Noakhali",
     "id": "Z435DFDG4YT",
     "unit": "F5",
-    "category ": "Low",
+    "category": "Low",
     "amount": 11000
   },
   {
@@ -51,7 +51,7 @@
     "address": "Coxs Bazar",
     "id": "H63FDG4PI",
     "unit": "F6",
-    "category ": "Middle",
+    "category": "Middle",
     "amount": 12000
   },
   {
@@ -60,7 +60,7 @@
     "address": "Sandwip",
     "id": "786DG433",
     "unit": "F7",
-    "category ": "Middle",
+    "category": "Middle",
     "amount": 13000
   },
   {
@@ -78,7 +78,7 @@
     "address": "Satkaniya",
     "id": "Z3SDFDG43",
     "unit": "F9",
-    "category ": "Middle",
+    "category": "Middle",
     "amount": 12000
   },
   {
@@ -87,7 +87,7 @@
     "address": "Bashkhali",
     "id": "Z5DFDG433",
     "unit": "F10",
-    "category ": "Low",
+    "category": "Low",
     "amount": 10000
   },
   {
@@ -105,7 +105,7 @@
     "address": "Jinaidah",
     "id": "T3SDFDG44",
     "unit": "F12",
-    "category ": "High",
+    "category": "High",
     "amount": 20000
   },
   {
@@ -114,7 +114,7 @@
     "address": "Sandwip",
     "id": "G5YTDFDG4",
     "unit": "F13",
-    "category ": "Middle",
+    "category": "Middle",
     "amount": 12000
   },
   {
@@ -123,7 +123,7 @@
     "address": "Cumilla",
     "id": "34Z3SDFDF",
     "unit": "F14",
-    "category ": "Middle",
+    "category": "Middle",
     "amount": 14000
   },
   {
@@ -132,7 +132,7 @@
     "address": "Potiya",
     "id": "34DFDFFR3",
     "unit": "F15",
-    "category ": "High",
+    "category": "High",
     "amount": 18000
   }
 ]

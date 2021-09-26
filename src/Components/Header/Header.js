@@ -13,7 +13,7 @@ const Header = () => {
           Chittagong, Bangladesh.
         </p>
         <h2>
-          Total Rent Budget: 204000<small> BDT</small>
+          Total Rent Budget: 204,000<small> BDT</small>
         </h2>
       </div>
     </div>
