@@ -1,3 +1,8 @@
-.cart h3 {
+.cart {
+  border: 2px solid #ff5a3c;
+  margin-left: 10px;
+}
+.cart h2 {
   color: #ff5a3c;
+  border-bottom: 1px solid #ff5a3c;
 }

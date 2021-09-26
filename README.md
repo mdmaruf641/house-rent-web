@@ -4,6 +4,6 @@
 
 ## Described the below about this site:
 
-1.  This is a house rent calculation website.
+1.  This is a house rent calculating website.
 2.  This site has been created using React, JSX, Bootstrap, and Vanilla CSS.
 3.  With this site, you can keep track of your house rent.
