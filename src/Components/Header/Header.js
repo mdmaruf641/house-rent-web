@@ -12,7 +12,9 @@ const Header = () => {
           Holding No-754, Road- Y block, Khulshi, Post office- Firozshah,
           Thanas- Khulshi, Chittagong, Bangladesh.
         </p>
-        <h2>Total: 15 Familys</h2>
+        <h2>
+          Total Rent Amount: 204000<small> BDT</small>
+        </h2>
       </div>
     </div>
   );

@@ -22,3 +22,16 @@
   border: 1px solid #ff5a3c;
   color: #ff5a3c;
 }
+.main-cart img {
+  width: 200px;
+  height: 200px;
+  border: 2px solid #ff5a3c;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.main-cart h4 {
+  color: #ff5a3c;
+}
