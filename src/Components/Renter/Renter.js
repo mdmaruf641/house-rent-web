@@ -4,7 +4,7 @@ import { faHouseUser } from "@fortawesome/free-solid-svg-icons";
 import "./Renter.css";
 
 const Renter = (props) => {
-  const { img, name, id, address, unit, amount } = props.renter;
+  const { img, name, id, address, unit, amount, category } = props.renter;
   const element = <FontAwesomeIcon icon={faHouseUser} />;
   return (
     <div className="main-cart">
@@ -16,7 +16,8 @@ const Renter = (props) => {
             <div className="text-start">
               <h5>Id: {id}</h5>
               <h5>Home Town: {address}</h5>
-              <h5>Unit: {unit}</h5>
+              <h5>Flat: {unit}</h5>
+              <h5>Flat Category: {category}</h5>
               <h5>Rent Amount: {amount}</h5>
             </div>
           </div>
