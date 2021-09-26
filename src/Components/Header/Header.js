@@ -9,11 +9,11 @@ const Header = () => {
           The <span>Royal</span> House
         </h1>
         <p>
-          Holding No-754, Road- Y block, Khulshi, Post office- Firozshah,
-          Thanas- Khulshi, Chittagong, Bangladesh.
+          Holding No-754, Road- Y block, Post office- Firozshah, Thana- Khulshi,
+          Chittagong, Bangladesh.
         </p>
         <h2>
-          Total Rent Amount: 204000<small> BDT</small>
+          Total Rent Budget: 204000<small> BDT</small>
         </h2>
       </div>
     </div>
